@@ -1,0 +1,16 @@
+{
+  "node": {
+    "version": "v26.13.1"
+  },
+  "bun": {
+    "version": "1.4.5"
+  },
+  "claudeCode": {
+    "version": "2.1.331"
+  },
+  "ccSwitch": {
+    "version": "4.0.40",
+    "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.40/CC-Switch-v4.0.40-Windows.msi"
+  },
+  "snapshotAt": "2026-11-24T08:08:04.439Z"
+}
